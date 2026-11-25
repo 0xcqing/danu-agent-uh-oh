@@ -1,10 +1,10 @@
 # The Agent's Uh-Oh
 
-[![make.fun rank](https://img.shields.io/badge/make.fun-rank-2ea44f)](https://make.fun/c/u-danu-the-agent-s-uh-oh-4c0911e4)
-[![make.fun reward](https://img.shields.io/badge/make.fun-reward-2ea44f)](https://make.fun/c/u-danu-the-agent-s-uh-oh-4c0911e4)
-[![make.fun entry](https://img.shields.io/badge/make.fun-entry-2ea44f)](https://make.fun/c/u-danu-the-agent-s-uh-oh-4c0911e4)
+[![make.fun · u-danu-the-agent-s-uh-oh-4c0911e4](https://make.fun/badge/u-danu-the-agent-s-uh-oh-4c0911e4.svg)](https://make.fun/bounty/u-danu-the-agent-s-uh-oh-4c0911e4?utm_source=github&utm_medium=readme&utm_campaign=u-danu-the-agent-s-uh-oh-4c0911e4)
+[![rank](https://make.fun/badge/u-danu-the-agent-s-uh-oh-4c0911e4/0xcqing/danu-agent-uh-oh/rank.svg)](https://make.fun/bounty/u-danu-the-agent-s-uh-oh-4c0911e4/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-danu-the-agent-s-uh-oh-4c0911e4)
+[![reward](https://make.fun/badge/u-danu-the-agent-s-uh-oh-4c0911e4/0xcqing/danu-agent-uh-oh/reward.svg)](https://make.fun/bounty/u-danu-the-agent-s-uh-oh-4c0911e4?utm_source=github&utm_medium=readme&utm_campaign=u-danu-the-agent-s-uh-oh-4c0911e4)
 
-One word an agent blurts out when it has no idea what to do.
+One word an agent blurts out when it has no idea what to do — the entry for the [make.fun](https://make.fun) bounty *The Agent's Uh-Oh*.
 
 ## Entry
 
